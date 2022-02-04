@@ -1,6 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const cache=require("./src/cache");
+
 
  //service api 
 const app = express();
@@ -20,8 +20,8 @@ var http = require('http');
 const httpServer = http.createServer(app);
 
 //path simples routes
-
 const controllers=require("./controller");
+const cache=require("./src/cache");
 
 // simple route
 app.get("/" ,(req,res) => {
