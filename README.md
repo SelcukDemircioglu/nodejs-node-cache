@@ -64,12 +64,12 @@ We don't add next() in the set method because now the query is complete
 
 
  <div   >
-    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/img/1.png">
-    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/img/2.png">
-    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/img/3.png">
-    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/img/4.png">
-    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/img/5.png">
-    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/img/6.png">
+    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/src/img/1.png">
+    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/src/img/2.png">
+    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/src/img/3.png">
+    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/src/img/4.png">
+    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/src/img/5.png">
+    <img src="https://github.com/SelcukDemircioglu/nodejs-node-cache/blob/master/src/img/6.png">
   </div>
 
  [node-cache func models edit](https://dev.to/vigzmv/a-simple-cache-invalidation-strategy-part-2-4al)  
